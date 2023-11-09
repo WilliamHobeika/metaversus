@@ -1,13 +1,13 @@
 "use client";
 
-//importing animations library
+// importing animations library
 import { motion } from "framer-motion";
 
-//importing styles
+// importing styles
 import styles from "../styles";
 import { footerVariants } from "../utils/motion";
 
-//the data of this section
+// the data of this section
 import { socials } from "../constants";
 
 const Footer = () => (

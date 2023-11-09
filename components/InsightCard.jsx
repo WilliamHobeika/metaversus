@@ -1,9 +1,9 @@
 "use client";
 
-//importing animations library
+// importing animations library
 import { motion } from "framer-motion";
 
-//importing styles
+// importing styles
 import { fadeIn } from "../utils/motion";
 
 const InsightCard = ({ imgUrl, title, subtitle, index }) => (

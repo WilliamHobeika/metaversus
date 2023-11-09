@@ -1,4 +1,4 @@
-//importing styles
+// importing styles
 import styles from "../styles";
 
 const StartSteps = ({ number, text }) => (

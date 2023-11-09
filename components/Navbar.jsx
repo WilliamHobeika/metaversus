@@ -1,10 +1,10 @@
-"use client"; /*used to convert the server components to client components so we can use
-              all the client-side react functionalities suchas state hooks etc*/
+"use client"; /* used to convert the server components to client components so we can use
+              all the client-side react functionalities suchas state hooks etc */
 
-//importing animations library
+// importing animations library
 import { motion } from "framer-motion";
 
-//importing styles
+// importing styles
 import styles from "../styles";
 import { navVariants } from "../utils/motion";
 

@@ -1,9 +1,9 @@
 "use client";
 
-//importing animations library
+// importing animations library
 import { motion } from "framer-motion";
 
-//importing styles
+// importing styles
 import styles from "../styles";
 import { fadeIn } from "../utils/motion";
 
