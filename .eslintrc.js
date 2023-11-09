@@ -31,10 +31,6 @@ module.exports = {
     "react/react-in-jsx-scope": "off",
     "react/jsx-props-no-spreading": "off",
     "jsx-a11y/no-noninteractive-element-interactions": "off",
-
-    // Allow double quotes for strings
-    quotes: ["error", "double"],
-
     "react/function-component-definition": [
       2,
       {
